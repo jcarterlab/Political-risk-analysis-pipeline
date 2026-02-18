@@ -1,1 +1,1 @@
-# political-risk-intelligence-pipeline
+# political-risk-analysis-pipeline
